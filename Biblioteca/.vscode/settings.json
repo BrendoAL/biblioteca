@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Fernando Acácio\\OneDrive\\Área de Trabalho\\Jovem Programador\\Banco De Dados\\mysql-connector-j-9.3.0\\mysql-connector-j-9.3.0\\mysql-connector-j-9.3.0.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Fernando Acácio\\OneDrive\\Área de Trabalho\\Jovem Programador\\Banco De Dados\\mysql-connector-j-9.3.0\\mysql-connector-j-9.3.0\\mysql-connector-j-9.3.0.jar"
+        ]
+    }
+}
