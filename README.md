@@ -1,6 +1,6 @@
 # 📚 Sistema de Gerenciamento de Biblioteca
 
-Este projeto é um sistema simples de gerenciamento de empréstimos de livros, desenvolvido em Java com conexão a um banco de dados MySQL.
+Este projeto é um sistema de gerenciamento de empréstimos de livros, desenvolvido em Java puro e com conexão a um banco de dados MySQL.
 
 ## 🚀 Como Rodar o Projeto
 
